@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+		"array": "c",
+		"vector": "c",
+		"xstring": "c",
+		"sdkconfig.h": "c",
+		"string.h": "c",
+		"adxl345.h": "c",
+		"task.h": "c"
+	},
+	"editor.insertSpaces": false,				// 不检测到第一个是tab后面都用tab
+	"editor.detectIndentation": false,			// 不检测到第一个是tab后面都用tab
+	"editor.renderControlCharacters": true, 	// 显示制表符是→
+	"editor.renderWhitespace": "all",			// 显示4个空格是....
+	"editor.tabSize": 4,
+	"idf.gitPath": "F:\\ESP32\\ESP_IDF_Tools2.9\\.espressif\\tools\\idf-git\\cmd\\git.exe", // tab设置为4个空格
+}

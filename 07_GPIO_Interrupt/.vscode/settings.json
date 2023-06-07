@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "array": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "random": "c",
+        "*.ipp": "c",
+        "sdkconfig.h": "c"
+    }
+}

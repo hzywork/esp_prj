@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+		"array": "c",
+		"vector": "c",
+		"xstring": "c",
+		"xutility": "c",
+		"random": "c",
+		"*.ipp": "c",
+		"tsc2007.h": "c",
+		"i2c.h": "c",
+		"gpio.h": "c",
+		"nvs_flash.h": "c",
+		"bl5372.h": "c",
+		"key.h": "c",
+		"esp_adc_cal.h": "c",
+		"event_groups.h": "c",
+		"esp_log.h": "c",
+		"uart.h": "c",
+		"sdkconfig.h": "c",
+		"esp_spi_flash.h": "c",
+		"task.h": "c",
+		"stdint.h": "c",
+		"stdio.h": "c"
+	},
+	"editor.insertSpaces": false,				// 自动插入空格禁用
+	"editor.detectIndentation": false,			// 启用时根据文件内容进行重写
+	"editor.renderControlCharacters": true, 	// 是否显示控制字符：启用
+	"editor.renderWhitespace": "all",			// 显示4个空格是....
+	"editor.tabSize": 4,						// tab设置为4个空格
+	"cmake.configureOnOpen": true,				
+}
